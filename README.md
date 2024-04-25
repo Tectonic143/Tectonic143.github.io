@@ -6,7 +6,7 @@
 
     <body>
         <b><h1><i><u>Hello!</u></i></h1></b>
-I'm Jacky Zhong, and this is a website created completely using <b>CodeHS</b>.<br><br>
+I'm Jacky Zhong.<b>CodeHS</b>.<br><br>
 <a href="https://en.wikipedia.org/wiki/Ramen"><img src="https://shorturl.at/rDEG0" width="150" height="150"></a> Ramen!
 <hr>
 <h2>Bio</h2>
